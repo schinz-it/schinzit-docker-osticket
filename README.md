@@ -48,7 +48,7 @@ Complete configuration
 After these configurations 2 things should be done to your osTicket image:
 
 * ost-config.php should be set to 664
-* setup-directory should be deletet
+* setup-directory should be deleted
 
 To achieve that, you can create your own Dockerfile, with possible more changes you want.
 That file could be like that
