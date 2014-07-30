@@ -23,13 +23,14 @@ MySQL setup is planed to use the user admin. To see what password has been set f
 
 There you should see some output like:
 
-********************** MySQL - DATA ***********************
-*                                                         *
-* DB-TABLE  :  osticket                                   *
-* DB-USER   :  admin                                      *
-* DB-PASS   :  sompassword                                *
-*                                                         *
-***********************************************************
+====================== MySQL - DATA =======================
+=                                                         =
+= DB-TABLE  :  osticket                                   =
+= DB-USER   :  admin                                      =
+= DB-PASS   :  sompassword                                =
+=                                                         =
+
+===========================================================
 
 You can set a wanted password for user admin by setting env-variable MYSQL_PASS:
 
